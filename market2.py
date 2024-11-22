@@ -46,8 +46,11 @@ for item in items:
 # 결과를 보기 좋게 출력
 formatted_json = json.dumps(results, indent=4, ensure_ascii=False)
 
-# JSON 데이터를 파일로 저장
-output_file = "results.json"
+# 결과 파일을 example 폴더 안에 저장
+output_folder = "example"
+os.makedirs(output_folder, exist_ok=True)  # example 폴더가 없으면 생성
+output_file = os.path.join(output_folder, "market_results.json")
+
 with open(output_file, "w", encoding="utf-8") as file:
     file.write(formatted_json)
 
