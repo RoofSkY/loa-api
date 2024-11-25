@@ -1,0 +1,307 @@
+{
+    "PageNo": 1,
+    "PageSize": 10,
+    "TotalCount": 10,
+    "Items": [
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2119000,
+                "BuyPrice": 2119000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T20:08:53.453",
+                "BidCount": 0,
+                "BidStartPrice": 2119000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "운명의 부름",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "아르카나",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2120000,
+                "BuyPrice": 2120000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T18:13:12.473",
+                "BidCount": 0,
+                "BidStartPrice": 2120000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "묵법 : 해그리기",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "도화가",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2120000,
+                "BuyPrice": 2120000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T19:53:40.79",
+                "BidCount": 0,
+                "BidStartPrice": 2120000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "전장의 방패",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "워로드",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2129999,
+                "BuyPrice": 2129999,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T09:12:50.817",
+                "BidCount": 0,
+                "BidStartPrice": 2129999,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "몰아치기",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "기상술사",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 1,
+                "BuyPrice": 2130000,
+                "BidPrice": 2000000,
+                "EndDate": "2024-11-23T05:50:06.953",
+                "BidCount": 20,
+                "BidStartPrice": 2100000,
+                "IsCompetitive": true,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "금강난격",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "브레이커",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 1,
+                "BuyPrice": 2130000,
+                "BidPrice": 2079000,
+                "EndDate": "2024-11-23T05:50:12.753",
+                "BidCount": 28,
+                "BidStartPrice": 2130000,
+                "IsCompetitive": true,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "파천섬광",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "브레이커",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2130000,
+                "BuyPrice": 2130000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T17:47:51.05",
+                "BidCount": 0,
+                "BidStartPrice": 2130000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "천기심권",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "브레이커",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2150000,
+                "BuyPrice": 2150000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-24T19:23:00.803",
+                "BidCount": 0,
+                "BidStartPrice": 2150000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "소울 앱소버",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "블레이드",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2150000,
+                "BuyPrice": 2150000,
+                "BidPrice": 0,
+                "EndDate": "2024-11-24T21:14:08.347",
+                "BidCount": 0,
+                "BidStartPrice": 2150000,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "블리츠 러시",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "블레이드",
+                    "IsValuePercentage": true
+                }
+            ]
+        },
+        {
+            "Name": "10레벨 작열의 보석",
+            "Grade": "고대",
+            "Tier": 4,
+            "Level": 1640,
+            "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/use/use_12_115.png",
+            "GradeQuality": null,
+            "AuctionInfo": {
+                "StartPrice": 2119999,
+                "BuyPrice": 2199999,
+                "BidPrice": 0,
+                "EndDate": "2024-11-23T19:05:31.453",
+                "BidCount": 0,
+                "BidStartPrice": 2119999,
+                "IsCompetitive": false,
+                "TradeAllowCount": 0,
+                "UpgradeLevel": null
+            },
+            "Options": [
+                {
+                    "Type": "GEM_SKILL_COOLDOWN_REDUCTION",
+                    "OptionName": "고대의 창",
+                    "OptionNameTripod": "",
+                    "Value": 24.0,
+                    "IsPenalty": false,
+                    "ClassName": "서머너",
+                    "IsValuePercentage": true
+                }
+            ]
+        }
+    ]
+}

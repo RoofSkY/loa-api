@@ -1,0 +1,338 @@
+[
+    {
+        "item_name": "명예의 파편 주머니(대)",
+        "item_code": 66130133,
+        "data": [
+            {
+                "Name": "명예의 파편 주머니(대)",
+                "TradeRemainCount": null,
+                "BundleCount": 1,
+                "Stats": [
+                    {
+                        "Date": "2024-11-22",
+                        "AvgPrice": 554.7,
+                        "TradeCount": 10612
+                    },
+                    {
+                        "Date": "2024-11-21",
+                        "AvgPrice": 553.4,
+                        "TradeCount": 25577
+                    },
+                    {
+                        "Date": "2024-11-20",
+                        "AvgPrice": 550.6,
+                        "TradeCount": 18840
+                    },
+                    {
+                        "Date": "2024-11-19",
+                        "AvgPrice": 552.7,
+                        "TradeCount": 14779
+                    },
+                    {
+                        "Date": "2024-11-18",
+                        "AvgPrice": 561.8,
+                        "TradeCount": 30802
+                    },
+                    {
+                        "Date": "2024-11-17",
+                        "AvgPrice": 568.6,
+                        "TradeCount": 36548
+                    },
+                    {
+                        "Date": "2024-11-16",
+                        "AvgPrice": 568.2,
+                        "TradeCount": 30752
+                    },
+                    {
+                        "Date": "2024-11-15",
+                        "AvgPrice": 573.9,
+                        "TradeCount": 26143
+                    },
+                    {
+                        "Date": "2024-11-14",
+                        "AvgPrice": 558.5,
+                        "TradeCount": 27916
+                    },
+                    {
+                        "Date": "2024-11-13",
+                        "AvgPrice": 555.2,
+                        "TradeCount": 21149
+                    },
+                    {
+                        "Date": "2024-11-12",
+                        "AvgPrice": 544.9,
+                        "TradeCount": 20260
+                    },
+                    {
+                        "Date": "2024-11-11",
+                        "AvgPrice": 546.9,
+                        "TradeCount": 25538
+                    },
+                    {
+                        "Date": "2024-11-10",
+                        "AvgPrice": 565.9,
+                        "TradeCount": 28412
+                    },
+                    {
+                        "Date": "2024-11-09",
+                        "AvgPrice": 580.6,
+                        "TradeCount": 27037
+                    }
+                ],
+                "ToolTip": "{\r\n  \"Element_000\": {\r\n    \"type\": \"NameTagBox\",\r\n    \"value\": \"<P ALIGN='CENTER'><FONT COLOR='#ce43fc'>명예의 파편 주머니(대)</FONT></P>\"\r\n  },\r\n  \"Element_001\": {\r\n    \"type\": \"ItemTitle\",\r\n    \"value\": {\r\n      \"bEquip\": 0,\r\n      \"leftStr0\": \"<FONT SIZE='12'><FONT COLOR='#ce43fc'>영웅 재련 재료 상자</FONT></FONT>\",\r\n      \"leftStr1\": \"\",\r\n      \"leftStr2\": \"<FONT SIZE='14'>아이템 티어 3</FONT>\",\r\n      \"qualityValue\": -1,\r\n      \"rightStr0\": \"\",\r\n      \"slotData\": {\r\n        \"advBookIcon\": 0,\r\n        \"battleItemTypeIcon\": 0,\r\n        \"blackListIcon\": 0,\r\n        \"cardIcon\": false,\r\n        \"friendship\": 0,\r\n        \"iconGrade\": 3,\r\n        \"iconPath\": \"efui_iconatlas/use/use_8_227.png\",\r\n        \"imagePath\": \"\",\r\n        \"islandIcon\": 0,\r\n        \"petBorder\": 0,\r\n        \"rtString\": \"\",\r\n        \"seal\": false,\r\n        \"temporary\": 0,\r\n        \"town\": 0,\r\n        \"trash\": 0\r\n      }\r\n    }\r\n  },\r\n  \"Element_002\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#FF0000'></FONT></FONT>\"\r\n  },\r\n  \"Element_003\": {\r\n    \"type\": \"MultiTextBox\",\r\n    \"value\": \"|거래가능\"\r\n  },\r\n  \"Element_004\": {\r\n    \"type\": \"IndentStringGroup\",\r\n    \"value\": null\r\n  },\r\n  \"Element_005\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT COLOR='#E2C87A'><FONT SIZE='12'>명예의 파편이 담겨 있는 주머니.<br>사용 시, 1500 명예의 파편을 획득할 수 있다.</FONT></FONT>\"\r\n  },\r\n  \"Element_006\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#C24B46'>분해불가</FONT></FONT>\"\r\n  },\r\n  \"Element_007\": {\r\n    \"type\": \"ItemBunch\",\r\n    \"value\": {\r\n      \"firstMsg\": \"아래의 아이템을 <FONT COLOR='#FFD200'>전부</FONT> 획득할 수 있습니다.\",\r\n      \"itemData\": {\r\n        \"Element_000\": {\r\n          \"slotData\": {\r\n            \"iconGrade\": -1,\r\n            \"iconPath\": \"efui_iconatlas/money/money_13.png\",\r\n            \"imagePath\": \"\"\r\n          },\r\n          \"text\": \"명예의 파편<BR>x <FONT COLOR='#FFFFFF'>1,500</FONT>\"\r\n        }\r\n      },\r\n      \"lastMsg\": \"\"\r\n    }\r\n  },\r\n  \"Element_008\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<Font color='#5FD3F1'>[카오스게이트]</font>\"\r\n  }\r\n}"
+            }
+        ]
+    },
+    {
+        "item_name": "찬란한 명예의 돌파석",
+        "item_code": 66110224,
+        "data": [
+            {
+                "Name": "찬란한 명예의 돌파석",
+                "TradeRemainCount": null,
+                "BundleCount": 1,
+                "Stats": [
+                    {
+                        "Date": "2024-11-22",
+                        "AvgPrice": 14.2,
+                        "TradeCount": 323218
+                    },
+                    {
+                        "Date": "2024-11-21",
+                        "AvgPrice": 15.3,
+                        "TradeCount": 541211
+                    },
+                    {
+                        "Date": "2024-11-20",
+                        "AvgPrice": 16.0,
+                        "TradeCount": 604365
+                    },
+                    {
+                        "Date": "2024-11-19",
+                        "AvgPrice": 18.8,
+                        "TradeCount": 597042
+                    },
+                    {
+                        "Date": "2024-11-18",
+                        "AvgPrice": 19.0,
+                        "TradeCount": 662613
+                    },
+                    {
+                        "Date": "2024-11-17",
+                        "AvgPrice": 19.3,
+                        "TradeCount": 889980
+                    },
+                    {
+                        "Date": "2024-11-16",
+                        "AvgPrice": 19.5,
+                        "TradeCount": 889849
+                    },
+                    {
+                        "Date": "2024-11-15",
+                        "AvgPrice": 19.5,
+                        "TradeCount": 789955
+                    },
+                    {
+                        "Date": "2024-11-14",
+                        "AvgPrice": 19.8,
+                        "TradeCount": 914861
+                    },
+                    {
+                        "Date": "2024-11-13",
+                        "AvgPrice": 19.5,
+                        "TradeCount": 922717
+                    },
+                    {
+                        "Date": "2024-11-12",
+                        "AvgPrice": 20.8,
+                        "TradeCount": 662507
+                    },
+                    {
+                        "Date": "2024-11-11",
+                        "AvgPrice": 22.8,
+                        "TradeCount": 711909
+                    },
+                    {
+                        "Date": "2024-11-10",
+                        "AvgPrice": 23.5,
+                        "TradeCount": 1128815
+                    },
+                    {
+                        "Date": "2024-11-09",
+                        "AvgPrice": 22.8,
+                        "TradeCount": 860905
+                    }
+                ],
+                "ToolTip": "{\r\n  \"Element_000\": {\r\n    \"type\": \"NameTagBox\",\r\n    \"value\": \"<P ALIGN='CENTER'><FONT COLOR='#00B0FA'>찬란한 명예의 돌파석</FONT></P>\"\r\n  },\r\n  \"Element_001\": {\r\n    \"type\": \"ItemTitle\",\r\n    \"value\": {\r\n      \"bEquip\": 0,\r\n      \"leftStr0\": \"<FONT SIZE='12'><FONT COLOR='#00B0FA'>희귀 장비 재련 재료</FONT></FONT>\",\r\n      \"leftStr2\": \"<FONT SIZE='14'>아이템 티어 3</FONT>\",\r\n      \"qualityValue\": -1,\r\n      \"rightStr0\": \"\",\r\n      \"slotData\": {\r\n        \"advBookIcon\": 0,\r\n        \"battleItemTypeIcon\": 0,\r\n        \"blackListIcon\": 0,\r\n        \"cardIcon\": false,\r\n        \"friendship\": 0,\r\n        \"iconGrade\": 2,\r\n        \"iconPath\": \"efui_iconatlas/use/use_11_17.png\",\r\n        \"imagePath\": \"\",\r\n        \"islandIcon\": 0,\r\n        \"petBorder\": 0,\r\n        \"rtString\": \"\",\r\n        \"seal\": false,\r\n        \"temporary\": 0,\r\n        \"town\": 0,\r\n        \"trash\": 0\r\n      }\r\n    }\r\n  },\r\n  \"Element_002\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#FF0000'></FONT></FONT>\"\r\n  },\r\n  \"Element_003\": {\r\n    \"type\": \"MultiTextBox\",\r\n    \"value\": \"|거래가능\"\r\n  },\r\n  \"Element_004\": {\r\n    \"type\": \"IndentStringGroup\",\r\n    \"value\": null\r\n  },\r\n  \"Element_005\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT COLOR='#E2C87A'><FONT SIZE='12'>찬란한 명예의 기운을 품고 있는 돌파석.<br>재련에 사용되는 장비를 더욱 강화시킬 수 있다.</FONT></FONT>\"\r\n  },\r\n  \"Element_006\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#C24B46'>분해불가</FONT></FONT>\"\r\n  },\r\n  \"Element_007\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<Font color='#5FD3F1'>[가디언 토벌]</font>\"\r\n  }\r\n}"
+            }
+        ]
+    },
+    {
+        "item_name": "경이로운 명예의 돌파석",
+        "item_code": 66110223,
+        "data": [
+            {
+                "Name": "경이로운 명예의 돌파석",
+                "TradeRemainCount": null,
+                "BundleCount": 1,
+                "Stats": [
+                    {
+                        "Date": "2024-11-22",
+                        "AvgPrice": 2.2,
+                        "TradeCount": 132384
+                    },
+                    {
+                        "Date": "2024-11-21",
+                        "AvgPrice": 2.4,
+                        "TradeCount": 196622
+                    },
+                    {
+                        "Date": "2024-11-20",
+                        "AvgPrice": 2.7,
+                        "TradeCount": 228885
+                    },
+                    {
+                        "Date": "2024-11-19",
+                        "AvgPrice": 3.0,
+                        "TradeCount": 302021
+                    },
+                    {
+                        "Date": "2024-11-18",
+                        "AvgPrice": 2.9,
+                        "TradeCount": 301793
+                    },
+                    {
+                        "Date": "2024-11-17",
+                        "AvgPrice": 2.9,
+                        "TradeCount": 439035
+                    },
+                    {
+                        "Date": "2024-11-16",
+                        "AvgPrice": 3.0,
+                        "TradeCount": 335941
+                    },
+                    {
+                        "Date": "2024-11-15",
+                        "AvgPrice": 3.0,
+                        "TradeCount": 401521
+                    },
+                    {
+                        "Date": "2024-11-14",
+                        "AvgPrice": 3.2,
+                        "TradeCount": 429532
+                    },
+                    {
+                        "Date": "2024-11-13",
+                        "AvgPrice": 3.0,
+                        "TradeCount": 335489
+                    },
+                    {
+                        "Date": "2024-11-12",
+                        "AvgPrice": 3.1,
+                        "TradeCount": 405411
+                    },
+                    {
+                        "Date": "2024-11-11",
+                        "AvgPrice": 3.2,
+                        "TradeCount": 497828
+                    },
+                    {
+                        "Date": "2024-11-10",
+                        "AvgPrice": 3.4,
+                        "TradeCount": 595691
+                    },
+                    {
+                        "Date": "2024-11-09",
+                        "AvgPrice": 3.5,
+                        "TradeCount": 439225
+                    }
+                ],
+                "ToolTip": "{\r\n  \"Element_000\": {\r\n    \"type\": \"NameTagBox\",\r\n    \"value\": \"<P ALIGN='CENTER'><FONT COLOR='#00B0FA'>경이로운 명예의 돌파석</FONT></P>\"\r\n  },\r\n  \"Element_001\": {\r\n    \"type\": \"ItemTitle\",\r\n    \"value\": {\r\n      \"bEquip\": 0,\r\n      \"leftStr0\": \"<FONT SIZE='12'><FONT COLOR='#00B0FA'>희귀 장비 재련 재료</FONT></FONT>\",\r\n      \"leftStr2\": \"<FONT SIZE='14'>아이템 티어 3</FONT>\",\r\n      \"qualityValue\": -1,\r\n      \"rightStr0\": \"\",\r\n      \"slotData\": {\r\n        \"advBookIcon\": 0,\r\n        \"battleItemTypeIcon\": 0,\r\n        \"blackListIcon\": 0,\r\n        \"cardIcon\": false,\r\n        \"friendship\": 0,\r\n        \"iconGrade\": 2,\r\n        \"iconPath\": \"efui_iconatlas/use/use_7_157.png\",\r\n        \"imagePath\": \"\",\r\n        \"islandIcon\": 0,\r\n        \"petBorder\": 0,\r\n        \"rtString\": \"\",\r\n        \"seal\": false,\r\n        \"temporary\": 0,\r\n        \"town\": 0,\r\n        \"trash\": 0\r\n      }\r\n    }\r\n  },\r\n  \"Element_002\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#FF0000'></FONT></FONT>\"\r\n  },\r\n  \"Element_003\": {\r\n    \"type\": \"MultiTextBox\",\r\n    \"value\": \"|거래가능\"\r\n  },\r\n  \"Element_004\": {\r\n    \"type\": \"IndentStringGroup\",\r\n    \"value\": null\r\n  },\r\n  \"Element_005\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT COLOR='#E2C87A'><FONT SIZE='12'>경이로운 명예의 기운을 품고 있는 돌파석.<br>재련에 사용되는 장비를 더욱 강화시킬 수 있다.</FONT></FONT>\"\r\n  },\r\n  \"Element_006\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#C24B46'>분해불가</FONT></FONT>\"\r\n  },\r\n  \"Element_007\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<Font color='#5FD3F1'>[가디언 토벌]</font>\"\r\n  }\r\n}"
+            }
+        ]
+    },
+    {
+        "item_name": "위대한 명예의 돌파석",
+        "item_code": 66110222,
+        "data": [
+            {
+                "Name": "위대한 명예의 돌파석",
+                "TradeRemainCount": null,
+                "BundleCount": 1,
+                "Stats": [
+                    {
+                        "Date": "2024-11-22",
+                        "AvgPrice": 1.1,
+                        "TradeCount": 1384946
+                    },
+                    {
+                        "Date": "2024-11-21",
+                        "AvgPrice": 1.4,
+                        "TradeCount": 269369
+                    },
+                    {
+                        "Date": "2024-11-20",
+                        "AvgPrice": 1.8,
+                        "TradeCount": 157543
+                    },
+                    {
+                        "Date": "2024-11-19",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 289742
+                    },
+                    {
+                        "Date": "2024-11-18",
+                        "AvgPrice": 2.0,
+                        "TradeCount": 147764
+                    },
+                    {
+                        "Date": "2024-11-17",
+                        "AvgPrice": 2.2,
+                        "TradeCount": 234513
+                    },
+                    {
+                        "Date": "2024-11-16",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 218342
+                    },
+                    {
+                        "Date": "2024-11-15",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 144900
+                    },
+                    {
+                        "Date": "2024-11-14",
+                        "AvgPrice": 1.8,
+                        "TradeCount": 155341
+                    },
+                    {
+                        "Date": "2024-11-13",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 154118
+                    },
+                    {
+                        "Date": "2024-11-12",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 177840
+                    },
+                    {
+                        "Date": "2024-11-11",
+                        "AvgPrice": 1.7,
+                        "TradeCount": 222970
+                    },
+                    {
+                        "Date": "2024-11-10",
+                        "AvgPrice": 1.6,
+                        "TradeCount": 257276
+                    },
+                    {
+                        "Date": "2024-11-09",
+                        "AvgPrice": 1.9,
+                        "TradeCount": 202682
+                    }
+                ],
+                "ToolTip": "{\r\n  \"Element_000\": {\r\n    \"type\": \"NameTagBox\",\r\n    \"value\": \"<P ALIGN='CENTER'><FONT COLOR='#00B0FA'>위대한 명예의 돌파석</FONT></P>\"\r\n  },\r\n  \"Element_001\": {\r\n    \"type\": \"ItemTitle\",\r\n    \"value\": {\r\n      \"bEquip\": 0,\r\n      \"leftStr0\": \"<FONT SIZE='12'><FONT COLOR='#00B0FA'>희귀 장비 재련 재료</FONT></FONT>\",\r\n      \"leftStr2\": \"<FONT SIZE='14'>아이템 티어 3</FONT>\",\r\n      \"qualityValue\": -1,\r\n      \"rightStr0\": \"\",\r\n      \"slotData\": {\r\n        \"advBookIcon\": 0,\r\n        \"battleItemTypeIcon\": 0,\r\n        \"blackListIcon\": 0,\r\n        \"cardIcon\": false,\r\n        \"friendship\": 0,\r\n        \"iconGrade\": 2,\r\n        \"iconPath\": \"efui_iconatlas/use/use_7_156.png\",\r\n        \"imagePath\": \"\",\r\n        \"islandIcon\": 0,\r\n        \"petBorder\": 0,\r\n        \"rtString\": \"\",\r\n        \"seal\": false,\r\n        \"temporary\": 0,\r\n        \"town\": 0,\r\n        \"trash\": 0\r\n      }\r\n    }\r\n  },\r\n  \"Element_002\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#FF0000'></FONT></FONT>\"\r\n  },\r\n  \"Element_003\": {\r\n    \"type\": \"MultiTextBox\",\r\n    \"value\": \"|거래가능\"\r\n  },\r\n  \"Element_004\": {\r\n    \"type\": \"IndentStringGroup\",\r\n    \"value\": null\r\n  },\r\n  \"Element_005\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT COLOR='#E2C87A'><FONT SIZE='12'>위대한 명예의 기운을 품고 있는 돌파석.<br>재련에 사용되는 장비를 더욱 강화시킬 수 있다.</FONT></FONT>\"\r\n  },\r\n  \"Element_006\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<FONT SIZE='12'><FONT COLOR='#C24B46'>분해불가</FONT></FONT>\"\r\n  },\r\n  \"Element_007\": {\r\n    \"type\": \"SingleTextBox\",\r\n    \"value\": \"<Font color='#5FD3F1'>[가디언 토벌]</font>\"\r\n  }\r\n}"
+            }
+        ]
+    }
+]

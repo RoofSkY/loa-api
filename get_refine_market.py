@@ -14,8 +14,11 @@ headers = {
     'authorization': f"Bearer {Token}"
 }
 
-# data.json 파일 읽기
-with open("data.json", "r", encoding="utf-8") as data_file:
+# refine_t4_data.json 파일 경로 설정
+input_file = os.path.join("asset", "refine_t3_data.json")
+
+# refine_t4_data.json 파일 읽기
+with open(input_file, "r", encoding="utf-8") as data_file:
     items = json.load(data_file)
 
 # 결과 저장 리스트
@@ -49,7 +52,7 @@ formatted_json = json.dumps(results, indent=4, ensure_ascii=False)
 # 결과 파일을 example 폴더 안에 저장
 output_folder = "example"
 os.makedirs(output_folder, exist_ok=True)  # example 폴더가 없으면 생성
-output_file = os.path.join(output_folder, "market_results.json")
+output_file = os.path.join(output_folder, "refine_results.json")
 
 with open(output_file, "w", encoding="utf-8") as file:
     file.write(formatted_json)
