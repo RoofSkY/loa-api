@@ -11,7 +11,7 @@ name = ""  # 여기에 캐릭터 이름을 입력하세요.
 
 # API URL과 헤더 설정
 base_url = f"https://developer-lostark.game.onstove.com/armories/characters/{
-    name}/engravings"
+    name}/colosseums"
 headers = {
     "accept": "application/json",
     "authorization": f"bearer {Token}"  # .env에 실제 API 키를 입력하세요.
