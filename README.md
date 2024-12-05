@@ -18,7 +18,7 @@
 -   [NEWS]
 -   [CHARACTERS]
 -   [ARMORIES]
--   [AUCTIONS]
+-   [AUCTIONS](/docs/auctions.md)
 -   [MARKETS]
 -   [GAMECONTENTS]
 
