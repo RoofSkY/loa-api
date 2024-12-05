@@ -9,7 +9,7 @@ Token = os.environ.get('token')
 url = "https://developer-lostark.game.onstove.com/news/events"
 headers = {
     "accept": "application/json",
-    "authorization": f"bearer {Token}"  # 여기에 실제 Token 값을 입력하세요.
+    "authorization": f"bearer {Token}"  # .env에 실제 API 키를 입력하세요.
 }
 
 # GET 요청 보내기
